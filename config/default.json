@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://pankaj123:pankaj123@cluster0.czjyb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "myReactToken",
+  "githubClientId": "3b1888defa65cc547b21",
+  "githubSecret": "ccb3df7db1a5dfa737265e534e33b8bf9e162f42"
+}
